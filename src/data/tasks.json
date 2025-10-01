@@ -1,0 +1,112 @@
+[
+  {
+    "id": "task-1",
+    "title": "Design login page",
+    "description": "Create wireframes and UI for the login page",
+    "assignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-20T10:15:00Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Implement authentication",
+    "description": "Set up JWT authentication in backend",
+    "assignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-21T12:30:00Z"
+  },
+  {
+    "id": "task-3",
+    "title": "Setup CI/CD pipeline",
+    "description": "Configure GitHub Actions for automated deployment",
+    "assignedTo": {
+      "id": "user-3",
+      "name": "Charlie Brown"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-22T09:00:00Z"
+  },
+  {
+    "id": "task-4",
+    "title": "Write unit tests",
+    "description": "Add Jest tests for user service",
+    "assignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-22T15:45:00Z"
+  },
+  {
+    "id": "task-5",
+    "title": "Update documentation",
+    "description": "Revise API docs for new endpoints",
+    "assignedTo": {
+      "id": "user-4",
+      "name": "Diana Prince"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-23T11:20:00Z"
+  },
+  {
+    "id": "task-6",
+    "title": "Optimize database queries",
+    "description": "Improve performance of heavy read operations",
+    "assignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-23T17:10:00Z"
+  },
+  {
+    "id": "task-7",
+    "title": "Implement dark mode",
+    "description": "Add dark mode toggle and theme support",
+    "assignedTo": {
+      "id": "user-3",
+      "name": "Charlie Brown"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-24T08:05:00Z"
+  },
+  {
+    "id": "task-8",
+    "title": "Fix navbar bug",
+    "description": "Resolve alignment issue in mobile view",
+    "assignedTo": {
+      "id": "user-4",
+      "name": "Diana Prince"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-24T14:50:00Z"
+  },
+  {
+    "id": "task-9",
+    "title": "Integrate payment gateway",
+    "description": "Add Stripe for checkout functionality",
+    "assignedTo": {
+      "id": "user-5",
+      "name": "Ethan Hunt"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-25T10:30:00Z"
+  },
+  {
+    "id": "task-10",
+    "title": "Conduct code review",
+    "description": "Review pull requests for feature branch",
+    "assignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-26T09:45:00Z"
+  }
+]
